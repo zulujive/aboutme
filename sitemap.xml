@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://zulujive.github.io/aboutme/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://zulujive.github.io/aboutme/</loc>
+</url>
+<url>
+<loc>https://zulujive.github.io/aboutme/interests.html</loc>
+<lastmod>2022-03-10T21:04:57-07:00</lastmod>
+<image:image>
+<image:loc>https://zulujive.github.io/aboutme/media/posts/2/Heart_anterior_exterior_view.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://zulujive.github.io/aboutme/welcome.html</loc>
+<lastmod>2022-03-10T21:06:08-07:00</lastmod>
+<image:image>
+<image:loc>https://zulujive.github.io/aboutme/media/posts/1/IMG-0748.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

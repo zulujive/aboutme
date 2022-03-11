@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Luke Roszmann",
+    "description": "",
+    "home_page_url": "https://zulujive.github.io/aboutme",
+    "feed_url": "https://zulujive.github.io/aboutme/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Luke Roszmann"
+    },
+    "items": [
+        {
+            "id": "https://zulujive.github.io/aboutme/interests.html",
+            "url": "https://zulujive.github.io/aboutme/interests.html",
+            "title": "Interests",
+            "summary": " Travel Medicine Technology ",
+            "content_html": "<ul>\n<li>Travel</li>\n<li>Medicine</li>\n<li>Technology</li>\n</ul>",
+            "image": "https://zulujive.github.io/aboutme/media/posts/2/Heart_anterior_exterior_view.png",
+            "author": {
+                "name": "Luke Roszmann"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-10T21:04:57-07:00",
+            "date_modified": "2022-03-10T21:04:57-07:00"
+        },
+        {
+            "id": "https://zulujive.github.io/aboutme/welcome.html",
+            "url": "https://zulujive.github.io/aboutme/welcome.html",
+            "title": "About Me",
+            "summary": "Hi, I'm luke, a High School student with an extreme interest in medicine!",
+            "content_html": "<p>Hi, I'm luke, a High School student with an extreme interest in medicine!</p>",
+            "image": "https://zulujive.github.io/aboutme/media/posts/1/IMG-0748.jpeg",
+            "author": {
+                "name": "Luke Roszmann"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-10T20:55:38-07:00",
+            "date_modified": "2022-03-10T21:06:08-07:00"
+        }
+    ]
+}

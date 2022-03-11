@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Luke Roszmann</title>
+    <link href="https://zulujive.github.io/aboutme/feed.xml" rel="self" />
+    <link href="https://zulujive.github.io/aboutme" />
+    <updated>2022-03-10T21:06:08-07:00</updated>
+    <author>
+        <name>Luke Roszmann</name>
+    </author>
+    <id>https://zulujive.github.io/aboutme</id>
+
+    <entry>
+        <title>Interests</title>
+        <author>
+            <name>Luke Roszmann</name>
+        </author>
+        <link href="https://zulujive.github.io/aboutme/interests.html"/>
+        <id>https://zulujive.github.io/aboutme/interests.html</id>
+
+        <updated>2022-03-10T21:04:57-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zulujive.github.io/aboutme/media/posts/2/Heart_anterior_exterior_view.png" alt="" />
+                     Travel Medicine Technology 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://zulujive.github.io/aboutme/media/posts/2/Heart_anterior_exterior_view.png" alt="" />
+                <ul>
+<li>Travel</li>
+<li>Medicine</li>
+<li>Technology</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Luke Roszmann</name>
+        </author>
+        <link href="https://zulujive.github.io/aboutme/welcome.html"/>
+        <id>https://zulujive.github.io/aboutme/welcome.html</id>
+
+        <updated>2022-03-10T21:06:08-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zulujive.github.io/aboutme/media/posts/1/IMG-0748.jpeg" alt="" />
+                    Hi, I'm luke, a High School student with an extreme interest in medicine!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://zulujive.github.io/aboutme/media/posts/1/IMG-0748.jpeg" alt="" />
+                <p>Hi, I'm luke, a High School student with an extreme interest in medicine!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
